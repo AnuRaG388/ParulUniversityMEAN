@@ -53,7 +53,8 @@
 |5|Job Search Platform|| |
 |6|Used Goods Marketplace|||
 |7|Dating Application|||
-|8|Restaurant Food Ordering Application |[Bishal Singh](https://github.com/bishal292),[Kanhaiya lal agrahari](https://github.com/sunil004200),[Anurag Gupta](https://github.com/AnuRaG388),[Aryan Hasmi](https://github.com/Aryanhasmi)||
+|8|Restaurant Food Ordering Application |[Bishal Singh](https://github.com/bishal292),[Kanhaiya lal agrahari](https://github.com/sunil004200),[Anurag Gupta](https://github.com/AnuRaG388),[Aryan Hasmi](https://github.com/Aryanhasmi),[rabi](https://tms58.nepsetms.com.np/tms/client/dashboard)||
+
 |9|Music Streaming Application|||
 |10|Property Rental Application|||
 |11|Note Making Application|||
